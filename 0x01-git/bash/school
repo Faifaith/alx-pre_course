@@ -1,0 +1,4 @@
+#!/BIN/BA
+cd ..
+#!/bin/bash
+echo "School"
